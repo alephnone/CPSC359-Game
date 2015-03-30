@@ -1,0 +1,7 @@
+.globl reduceScore21
+
+
+reduceScore21:
+	bl reduceScore2
+
+
